@@ -9,6 +9,7 @@ My full name is Vadim Dyshlevich.
 I work as a programmer in a government Agency and strive to expand my skills in webdevelopment.  
 I am particularly interested in front-end and related technologies: Javascript, HTML&CSS, web design and back-end a bit (PHP, NodeJS). 
 Before I got a job as a programmer, I was engaged in freelancing for almost five years. Now I'm trying to get a deep knowledge of JavaScript and teamwork.  
+My current English level is B1 (Intermediate). 
 
 ## Skills
  
