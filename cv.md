@@ -20,6 +20,8 @@ JQuery: 82 / 100
 
 React: 80 / 100
 
+Angular: 25 / 100
+
 MySQL, ORACLE SQL: 75 / 100            
 
 PHP: 70 / 100
